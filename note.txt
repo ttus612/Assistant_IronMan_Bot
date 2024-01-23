@@ -1,0 +1,10 @@
+*Các thư viện cần cài đặt:
+pyttsx3: 
+    pip install pyttsx3
+
+speech_recognition:
+    pip install SpeechRecognition
+
+pyaudio:
+    pip install pipwin
+    pipwin install pyaudio
